@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58549" started-at="2017-07-09T19:15:59Z" finished-at="2017-07-09T19:16:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58549" started-at="2017-07-09T19:15:59Z" finished-at="2017-07-09T19:16:58Z">
+      <class name="com.shopkeepapp.TC_iPadButtonLayout">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="beforeClass" is-config="true" duration-ms="17219" started-at="2017-07-09T15:15:59Z" finished-at="2017-07-09T15:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchBox_validText()[pri:1, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="searchBox_validText" duration-ms="6257" started-at="2017-07-09T15:16:17Z" finished-at="2017-07-09T15:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox_validText -->
+        <test-method status="PASS" signature="changePageName()[pri:2, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="changePageName" duration-ms="241" started-at="2017-07-09T15:16:23Z" finished-at="2017-07-09T15:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePageName -->
+        <test-method status="PASS" signature="addNewPage()[pri:3, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="addNewPage" duration-ms="3379" started-at="2017-07-09T15:16:23Z" finished-at="2017-07-09T15:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewPage -->
+        <test-method status="PASS" signature="deleteCurrentPage()[pri:4, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="deleteCurrentPage" duration-ms="1157" started-at="2017-07-09T15:16:26Z" finished-at="2017-07-09T15:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCurrentPage -->
+        <test-method status="PASS" signature="dragItem_and_dropIntoPage()[pri:5, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="dragItem_and_dropIntoPage" duration-ms="7905" started-at="2017-07-09T15:16:28Z" finished-at="2017-07-09T15:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragItem_and_dropIntoPage -->
+        <test-method status="PASS" signature="dragButton_and_dropIntoList()[pri:6, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="dragButton_and_dropIntoList" duration-ms="9584" started-at="2017-07-09T15:16:36Z" finished-at="2017-07-09T15:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragButton_and_dropIntoList -->
+        <test-method status="PASS" signature="verify_TheRightNavigationArrow()[pri:7, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="verify_TheRightNavigationArrow" duration-ms="878" started-at="2017-07-09T15:16:45Z" finished-at="2017-07-09T15:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TheRightNavigationArrow -->
+        <test-method status="PASS" signature="verify_TheLeftNavigationArrow()[pri:8, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="verify_TheLeftNavigationArrow" duration-ms="862" started-at="2017-07-09T15:16:46Z" finished-at="2017-07-09T15:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TheLeftNavigationArrow -->
+        <test-method status="PASS" signature="verify_changingButtonText()[pri:9, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="verify_changingButtonText" duration-ms="6181" started-at="2017-07-09T15:16:47Z" finished-at="2017-07-09T15:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_changingButtonText -->
+        <test-method status="PASS" signature="verify_changingButtonColor()[pri:10, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="verify_changingButtonColor" duration-ms="4005" started-at="2017-07-09T15:16:53Z" finished-at="2017-07-09T15:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_changingButtonColor -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.shopkeepapp.TC_iPadButtonLayout@5d5eef3d]" name="afterClass" is-config="true" duration-ms="812" started-at="2017-07-09T15:16:57Z" finished-at="2017-07-09T15:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.shopkeepapp.TC_iPadButtonLayout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
